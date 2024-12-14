@@ -9,7 +9,7 @@ export default function XloxNavbar() {
     window.location.href = "https://calendly.com/vlockn/chat?month=2024-04";
   };
   const redirectToAuthStudio = () => {
-    window.location.href = "http://studio.localhost:3000";
+    window.location.href = "http:///erp.xlox.in"; // "http://studio.localhost:3000";
   };
   return (
     <div className="flex items-center justify-between w-full p-5 pb-0">

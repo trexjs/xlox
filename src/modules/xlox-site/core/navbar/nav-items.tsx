@@ -24,19 +24,19 @@ const components: { title: string; href: string; description: string }[] = [
   },
   {
     title: "School search",
-    href: generateBaseURL("sc"),
+    href: generateBaseURL("k12"),
     description:
       "For sighted users to preview content available behind a link.",
   },
   {
     title: "Tutor search",
-    href: generateBaseURL("tu"),
+    href: generateBaseURL("tutor"),
     description:
       "A set of layered sections of content—known as tab panels—that are displayed one at a time.",
   },
   {
     title: "Recruit",
-    href: generateBaseURL("recruit"),
+    href: generateBaseURL("hr"),
     description:
       "A popup that displays information related to an element when the element receives keyboard focus or the mouse hovers over it.",
   },

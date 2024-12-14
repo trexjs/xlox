@@ -49,7 +49,7 @@ export default function PublicRouter() {
   return (
     <>
       <BrowserRouter>
-        <WinsonPage />
+        <XloxPage />
       </BrowserRouter>
     </>
   );
